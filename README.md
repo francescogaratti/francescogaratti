@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @francescogaratti
+- 👋 Hi, I’m Francesco Garatti
 - 👀 I’m interested in Technology and Music
 - 🌱 I’m currently learning Angular 
 - 📫 How to reach me francescoagaratti97@gmail.com
