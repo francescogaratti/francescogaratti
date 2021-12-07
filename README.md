@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francesco Garatti
 - 👀 I’m interested in Technology and Music
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 📫 How to reach me: francescogaratti97@gmail.com
 
 <!---
